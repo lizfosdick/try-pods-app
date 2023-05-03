@@ -1,3 +1,7 @@
+This is the final project for Lighthouse Labs' Web Development Bootcamp for Liz Fosdick, Kate Booton, and Rowan MacKenzie. It was completed in April of 2023.
+
+All content below was generated from the React + Rails boilerplate provided by Lighthouse Labs.
+
 ## NOTE: This repo has not been updated in a while.
 
 You may find that the versions of React, Rails, and Ruby are _NOT_ the most current. Feel free to update this repo and make a PR with new versions. Also, please let me know if you run into any bugs.
